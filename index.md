@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a master's student at the University of Helsinki, majoring in cognitive science. My current interest area is mechanistic interpretability of Large Language Models (LLMs) and I am currently working on my thesis on this subject. The research question regarding this is to what extent there is an overlap in the activations of an LLM (GPT-2 specifically) when completing English and Finnish indirect object identification tasks respectively. This will be done using activation patching on GPT-2 and GPT2-Finnish.  
+<img src="assets/images/Picture_of_me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a master's student at the University of Helsinki, majoring in cognitive science. My current interest area is mechanistic interpretability of Large Language Models (LLMs) and I am currently working on my thesis on this subject. The research question regarding this is to what extent there is an overlap in the activations of an LLM (GPT-2 specifically) when completing English and Finnish indirect object identification tasks respectively. This will be done using activation patching on GPT-2 and GPT2-Finnish.  
 
 ## Find me on
 
@@ -26,7 +26,10 @@ My email address is ivo.wustrow@helsinki.fi.
 
 ## Projects
 
-###Command Line Tools
+### Command Line Tools
+
 Designed and created my own webpage, hosted on github. You are presently viewing it. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+### [Curriculum Vitae](https://www.overleaf.com/project/6adb3670e5fc46fa5d888635/share#6c7682fdc15938b39ee35220dc3c818b7e6db60788abcfc6)
+
+
